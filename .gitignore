@@ -1,1 +1,9 @@
 ignore.txt
+#Matching File Extension#
+#*.log#
+
+#Matching Folder name#
+log/
+
+
+
